@@ -2,19 +2,25 @@
 
 **Offensive Security | Web Application Pentesting | CTF Player**
 
-[Portfolio](https://tanmaydhoke.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tanmay-dhoke-793926337/) · [TryHackMe](https://tryhackme.com/p/tanmaydhoke.pcs) · [Linktree](https://linktr.ee/tanmaydhoke)
+<p align="center">
+  <a href="https://tanmaydhoke.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-18392b?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://tryhackme.com/p/tanmaydhoke.pcs">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanmay-dhoke-793926337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2ea043" width="100%" alt="Green accent divider"/>
-</p>
+## 👋 About Me
 
-## About Me
+I'm **Tanmay Dhoke**, a cybersecurity enthusiast focused on offensive security, web application penetration testing, and network security. I enjoy exploring application behavior, identifying security weaknesses, and developing practical skills through hands-on labs and CTF competitions.
 
-I'm Tanmay Dhoke, a cybersecurity enthusiast focused on offensive security, web application penetration testing, and network security. I enjoy exploring application behavior, analyzing security weaknesses, and developing practical skills through hands-on labs and CTF competitions.
-
-My journey combines technical security practice with community involvement, challenge development, and collaborative learning.
+My experience combines security testing, technical event organization, challenge development, and community involvement.
 
 ```text
 tanmay@v0idr3ign:~$ whoami
@@ -26,13 +32,7 @@ Network Penetration Testing
 Security Research & CTFs
 ```
 
-## Security Overview
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Offensive%20Security-18392b?style=for-the-badge" alt="Offensive Security"/>
-  <img src="https://img.shields.io/badge/DOMAIN-Web%20%26%20Network%20Security-18392b?style=for-the-badge" alt="Web and Network Security"/>
-  <img src="https://img.shields.io/badge/COMMUNITY-OWASP%20Nagpur-18392b?style=for-the-badge" alt="OWASP Nagpur"/>
-</p>
+## 🎯 Security Overview
 
 | Area | Details |
 |---|---|
@@ -42,7 +42,7 @@ Security Research & CTFs
 | Competitive Security | CTFs, challenge design and technical problem-solving |
 | Community | OWASP Nagpur Chapter, Phoenix Cybersecurity Forum |
 
-## Technical Arsenal
+## 🛠️ Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
@@ -58,7 +58,7 @@ Security Research & CTFs
 - **Network Analysis:** Packet inspection and traffic analysis.
 - **Security Research:** Hands-on labs, CTFs and offensive security techniques.
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Director – Professional Services
 **Rotaract Club of SVPCET** · 2026
@@ -80,29 +80,29 @@ Security Research & CTFs
 - Supported participants with technical guidance and troubleshooting.
 
 ### Cyber Security Intern
-**Edunet Foundation** · Jan–Feb 2025
+**Edunet Foundation** · January–February 2025
 
 - Performed web and network penetration testing using Burp Suite, Nmap, and Wireshark.
 - Identified and validated vulnerabilities through practical testing.
 
-## CTF Leaderboard
+## 🏆 CTF Leaderboard
 
 Competitive problem-solving across college and national-level cybersecurity events.
 
 | Placement | Competition |
 |:---:|---|
-| **1st** | Hacker Heist CTF |
-| **2nd** | Catch The Criminal — HackFusion 3.0 |
-| **3rd** | CTF at VNIT Nagpur |
-| **4th** | PCCOE Kurukshetra CTF |
-| **4th** | VishwaCTF 2025 |
-| **5th** | Signal CTF — Upsurge 2k25 |
-| **6th** | ICYS 2025 Cyber Security Summit & CTF |
-| **8th** | Ciphathon |
+| 🥇 **1st Place** | Hacker Heist CTF |
+| 🥈 **2nd Place** | Catch The Criminal — HackFusion 3.0 |
+| 🥉 **3rd Place** | CTF at VNIT Nagpur |
+| **4th Place** | PCCOE Kurukshetra CTF |
+| **4th Place** | VishwaCTF 2025 |
+| **5th Place** | Signal CTF — Upsurge 2k25 |
+| **6th Place** | ICYS 2025 Cyber Security Summit & CTF |
+| **8th Place** | Ciphathon |
 
-**Highlights:** First-place finish at Hacker Heist CTF, multiple podium finishes, and a fourth-place finish at PCCOE Kurukshetra CTF.
+**Highlights:** First-place finish at Hacker Heist CTF, multiple podium finishes, and fourth place at PCCOE Kurukshetra CTF.
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -115,27 +115,27 @@ Competitive problem-solving across college and national-level cybersecurity even
 | Linux, Wireless, Cryptography | Cybrary |
 | Pre-Security Path | TryHackMe |
 
-## Hands-on Practice
+## 🧪 Hands-on Practice
 
 I use practical security labs and CTF challenges to strengthen my understanding of attack surfaces, network behavior, and application vulnerabilities.
 
-<p>
+<p align="center">
   <a href="https://tryhackme.com/p/tanmaydhoke.pcs">
-    <img src="https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="View TryHackMe profile"/>
+    <img src="https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
   <a href="https://tanmaydhoke.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_Work-18392b?style=for-the-badge" alt="Explore portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore_Work-18392b?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0idr3ign&show_icons=true&hide_border=true&theme=transparent&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idr3ign&layout=compact&hide_border=true&theme=transparent&title_color=2ea043" height="165" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v0idr3ign&show_icons=true&hide_border=true&theme=transparent&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idr3ign&layout=compact&hide_border=true&theme=transparent&title_color=2ea043" height="165" alt="Most Used Languages"/>
 </p>
 
-## Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/v0idr3ign">
@@ -153,5 +153,5 @@ I use practical security labs and CTF challenges to strengthen my understanding 
 </p>
 
 <p align="center">
-  <sub>Continuous learning · Practical security · Responsible testing</sub>
+  <sub>🔐 Continuous Learning · Practical Security · Responsible Testing</sub>
 </p>
