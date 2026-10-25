@@ -1,86 +1,112 @@
 # Tanmay Dhoke
 
-**Offensive Security | Web Application Security | CTF Player**
+**Offensive Security | Web Application Pentesting | CTF Player**
 
-[Portfolio](https://tanmaydhoke.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tanmay-dhoke-793926337/) · [TryHackMe](https://tryhackme.com/p/tanmaydhoke.pcs) · [Contact](mailto:tanmaydhoke1705@gmail.com)
+[Portfolio](https://tanmaydhoke.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tanmay-dhoke-793926337/) · [TryHackMe](https://tryhackme.com/p/tanmaydhoke.pcs) · [Linktree](https://linktr.ee/tanmaydhoke)
 
 ---
 
-## Overview
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=2ea043" width="100%" alt="Green accent divider"/>
+</p>
 
-I'm Tanmay Dhoke, a cybersecurity enthusiast focused on offensive security, web application penetration testing, and network security. I enjoy understanding how applications and infrastructure behave, identifying security weaknesses, and applying that knowledge through hands-on labs and CTF competitions.
+## About Me
 
-My experience includes practical security testing, technical event organization, challenge development, and participation in the cybersecurity community.
+I'm Tanmay Dhoke, a cybersecurity enthusiast focused on offensive security, web application penetration testing, and network security. I enjoy exploring application behavior, analyzing security weaknesses, and developing practical skills through hands-on labs and CTF competitions.
+
+My journey combines technical security practice with community involvement, challenge development, and collaborative learning.
 
 ```text
-tanmay@v0idr3ign:~$ cat profile.txt
+tanmay@v0idr3ign:~$ whoami
+Offensive Security Enthusiast
 
-Focus       Web & Network Pentesting
-Approach    Hands-on Security Research
-Environment Kali Linux
-Community   OWASP Nagpur Chapter
-Interests   CTFs | Web Security | Reconnaissance
+tanmay@v0idr3ign:~$ cat focus.txt
+Web Application Security
+Network Penetration Testing
+Security Research & CTFs
 ```
 
-## Technical Stack
+## Security Overview
 
-| Category | Technologies & Skills |
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Offensive%20Security-18392b?style=for-the-badge" alt="Offensive Security"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Web%20%26%20Network%20Security-18392b?style=for-the-badge" alt="Web and Network Security"/>
+  <img src="https://img.shields.io/badge/COMMUNITY-OWASP%20Nagpur-18392b?style=for-the-badge" alt="OWASP Nagpur"/>
+</p>
+
+| Area | Details |
 |---|---|
-| Operating Systems | Kali Linux, Linux |
-| Web Security | Burp Suite, Web Application Pentesting |
-| Network Security | Nmap, Wireshark, Network Analysis |
-| Methodologies | Reconnaissance, Enumeration, Vulnerability Validation |
-| Other Interests | Cryptography, Digital Forensics, Reverse Engineering |
+| Primary Focus | Offensive Security and VAPT |
+| Web Security | Burp Suite and web application testing |
+| Network Security | Nmap, Wireshark and network analysis |
+| Competitive Security | CTFs, challenge design and technical problem-solving |
+| Community | OWASP Nagpur Chapter, Phoenix Cybersecurity Forum |
 
-## Experience
+## Technical Arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Networking-34495E?style=flat-square" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-18392b?style=flat-square" alt="Ethical Hacking"/>
+</p>
+
+- **Reconnaissance & Enumeration:** Network discovery and service analysis.
+- **Web Application Security:** Testing application behavior and validating vulnerabilities.
+- **Network Analysis:** Packet inspection and traffic analysis.
+- **Security Research:** Hands-on labs, CTFs and offensive security techniques.
+
+## Professional Experience
 
 ### Director – Professional Services
 **Rotaract Club of SVPCET** · 2026
 
 - Led teams and coordinated projects, events, and stakeholder collaboration.
-- Managed task delegation, execution, and operational workflows.
+- Managed execution, delegation, and operational workflows.
 
 ### Core Member
 **OWASP Nagpur Chapter** · 2026
 
-- Participate in connect sessions with the local security community.
-- Engage with security practitioners, students, and CTF participants.
+- Organize and participate in connect sessions with the local security community.
+- Network with security practitioners, students, and fellow CTF players.
 
 ### Core Technical Member
 **Phoenix Cybersecurity Forum** · 2025
 
 - Organized cybersecurity workshops, CTFs, and technical events.
-- Designed challenges in web security, cryptography, forensics, and reverse engineering.
-- Assisted participants with technical troubleshooting and guidance.
+- Designed challenges across web security, cryptography, forensics, and reverse engineering.
+- Supported participants with technical guidance and troubleshooting.
 
 ### Cyber Security Intern
 **Edunet Foundation** · Jan–Feb 2025
 
-- Worked on web and network penetration testing using Burp Suite, Nmap, and Wireshark.
-- Identified and validated vulnerabilities through practical security testing.
+- Performed web and network penetration testing using Burp Suite, Nmap, and Wireshark.
+- Identified and validated vulnerabilities through practical testing.
 
-## CTF Performance
+## CTF Leaderboard
 
-A record of participation across college and national-level cybersecurity competitions.
+Competitive problem-solving across college and national-level cybersecurity events.
 
-| Rank | Competition |
+| Placement | Competition |
 |:---:|---|
-| **01** | Hacker Heist CTF |
-| **02** | Catch The Criminal — HackFusion 3.0 |
-| **03** | CTF at VNIT Nagpur |
-| **04** | PCCOE Kurukshetra CTF |
-| **04** | VishwaCTF 2025 |
-| **05** | Signal CTF — Upsurge 2k25 |
-| **06** | ICYS 2025 Cyber Security Summit & CTF |
-| **08** | Ciphathon |
+| **1st** | Hacker Heist CTF |
+| **2nd** | Catch The Criminal — HackFusion 3.0 |
+| **3rd** | CTF at VNIT Nagpur |
+| **4th** | PCCOE Kurukshetra CTF |
+| **4th** | VishwaCTF 2025 |
+| **5th** | Signal CTF — Upsurge 2k25 |
+| **6th** | ICYS 2025 Cyber Security Summit & CTF |
+| **8th** | Ciphathon |
 
-**Highlights:** First place at Hacker Heist CTF, multiple podium finishes, and fourth place at PCCOE Kurukshetra CTF.
+**Highlights:** First-place finish at Hacker Heist CTF, multiple podium finishes, and a fourth-place finish at PCCOE Kurukshetra CTF.
 
 ## Certifications
 
 | Certification | Issuer |
 |---|---|
-| CSEDP | CSEDP |
+| **CSEDP** | The SecOps Group |
 | Computer Networks and Internet Protocol | NPTEL |
 | AI & Cybersecurity | Cisco |
 | Tata Cybersecurity Simulation | Forage |
@@ -89,32 +115,43 @@ A record of participation across college and national-level cybersecurity compet
 | Linux, Wireless, Cryptography | Cybrary |
 | Pre-Security Path | TryHackMe |
 
-## Hands-on Learning
+## Hands-on Practice
 
-I continue developing my technical foundation through cybersecurity labs, practical exercises, and CTF challenges.
+I use practical security labs and CTF challenges to strengthen my understanding of attack surfaces, network behavior, and application vulnerabilities.
 
-**Areas of interest**
-- Web application vulnerabilities
-- Network reconnaissance and enumeration
-- Offensive security techniques
-- Cryptography and digital forensics
-- Reverse engineering and CTF problem-solving
+<p>
+  <a href="https://tryhackme.com/p/tanmaydhoke.pcs">
+    <img src="https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="View TryHackMe profile"/>
+  </a>
+  <a href="https://tanmaydhoke.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_Work-18392b?style=for-the-badge" alt="Explore portfolio"/>
+  </a>
+</p>
 
-[Explore my TryHackMe profile →](https://tryhackme.com/p/tanmaydhoke.pcs)
-
-## Find Me Online
-
-| Platform | Link |
-|---|---|
-| GitHub | [@v0idr3ign](https://github.com/v0idr3ign) |
-| Portfolio | [tanmaydhoke.vercel.app](https://tanmaydhoke.vercel.app/) |
-| LinkedIn | [Tanmay Dhoke](https://www.linkedin.com/in/tanmay-dhoke-793926337/) |
-| TryHackMe | [tanmaydhoke.pcs](https://tryhackme.com/p/tanmaydhoke.pcs) |
-| Linktree | [tanmaydhoke](https://linktr.ee/tanmaydhoke) |
-| Email | [tanmaydhoke1705@gmail.com](mailto:tanmaydhoke1705@gmail.com) |
-
----
+## GitHub Activity
 
 <p align="center">
-  <sub>Curiosity drives research. Practice builds skill. Responsible testing builds trust.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=v0idr3ign&show_icons=true&hide_border=true&theme=transparent&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idr3ign&layout=compact&hide_border=true&theme=transparent&title_color=2ea043" height="165" alt="Most-used programming languages"/>
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/v0idr3ign">
+    <img src="https://img.shields.io/badge/GitHub-v0idr3ign-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanmay-dhoke-793926337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Dhoke-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/tanmaydhoke">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=flat-square&logo=linktree&logoColor=black" alt="Linktree"/>
+  </a>
+  <a href="mailto:tanmaydhoke1705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Continuous learning · Practical security · Responsible testing</sub>
 </p>
