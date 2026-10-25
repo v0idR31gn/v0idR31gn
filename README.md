@@ -1,6 +1,6 @@
 # Tanmay Dhoke
 
-<p align="center"> **Offensive Security | Web Application Pentesting | CTF Player**</p>
+<p align="center"> Offensive Security | Web Application Pentesting | CTF Player</p>
 
 <p align="center">
   <a href="https://tanmaydhoke.vercel.app/">
