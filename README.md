@@ -128,12 +128,6 @@ I use practical security labs and CTF challenges to strengthen my understanding 
   </a>
 </p>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v0idr3ign&show_icons=true&hide_border=true&theme=transparent&title_color=2ea043&icon_color=2ea043" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idr3ign&layout=compact&hide_border=true&theme=transparent&title_color=2ea043" height="165" alt="Most Used Languages"/>
-</p>
 
 ## 🤝 Connect With Me
 
